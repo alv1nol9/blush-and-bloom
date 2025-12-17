@@ -90,7 +90,7 @@ const Contact = () => {
             <div className="space-y-6 text-lg">
               <p>
                 <span className="font-semibold text-bloom-gold block text-xl mb-1">Location:</span>
-                Bungoma Road, Kahawa Sukari,<br />Opp. 1st North Avenue
+                Bamboo Gardens, Ruiru,<br />Opp. ACK 
               </p>
 
               <p>
@@ -100,7 +100,7 @@ const Contact = () => {
 
               <p>
                 <span className="font-semibold text-bloom-gold block text-xl mb-1">Phone:</span>
-                +254 720 716 984 <br /> +254 710 285 055
+                +254 700 000 000 <br /> +254 700 000 000
               </p>
 
               <p>

@@ -37,7 +37,7 @@ function Home() {
         <p className="mt-6 text-2xl font-light text-white/90 max-w-2xl">
           Crafting unforgettable, elegant events tailored to your unique love story and vision.
         </p>
-        <button className="mt-12 px-10 py-4 bg-bloom-gold text-blush-blue text-xl font-semibold rounded-full shadow-xl hover:bg-opacity-90 transition duration-300 transform hover:scale-[1.02]">
+        <button className="mt-12 px-10 py-4 bg-bloom-gold text-blush-blue text-xl font-semibold rounded-full shadow-xl hover:bg-opacity-90 transition duration-300 transform hover:scale-[1.02]" >
           Start Planning Your Event
         </button>
       </div>

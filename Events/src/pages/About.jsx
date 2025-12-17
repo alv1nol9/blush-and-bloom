@@ -45,7 +45,7 @@ function About() {
         
         {/* Call to Action */}
         <button className="mt-10 px-8 py-3 bg-bloom-gold text-blush-blue text-lg font-semibold rounded-full hover:bg-opacity-90 transition duration-300">
-          Meet Our Team
+         
         </button>
       </div>
 
