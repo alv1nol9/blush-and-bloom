@@ -1,5 +1,4 @@
 import Hero from "../components/home/Hero";
-import ServicesPreview from "../components/home/ ServicesPreview";
 import CallToAction from "../components/home/CallToAction";
 
 
